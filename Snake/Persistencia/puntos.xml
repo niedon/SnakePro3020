@@ -1,0 +1,70 @@
+<puntuaciones>
+	<modo dif="0">
+		<puntuacion>
+			<puntos>3000</puntos>
+			<nombre>PROPLAYER</nombre>
+		</puntuacion>
+		<puntuacion>
+			<puntos>2500</puntos>
+			<nombre>FULANITO</nombre>
+		</puntuacion>
+		<puntuacion>
+			<puntos>2000</puntos>
+			<nombre>EFEKTO</nombre>
+		</puntuacion>
+		<puntuacion>
+			<puntos>1500</puntos>
+			<nombre>ANACLETO</nombre>
+		</puntuacion>
+		<puntuacion>
+			<puntos>1000</puntos>
+			<nombre>CESHARPIO</nombre>
+		</puntuacion>
+	</modo>
+	<modo dif="1">
+		<puntuacion>
+			<puntos>5000</puntos>
+			<nombre>SULYVAHN</nombre>
+		</puntuacion>
+		<puntuacion>
+			<puntos>4800</puntos>
+			<nombre>LORIAN</nombre>
+		</puntuacion>
+		<puntuacion>
+			<puntos>4300</puntos>
+			<nombre>DEACONS</nombre>
+		</puntuacion>
+		<puntuacion>
+			<puntos>3900</puntos>
+			<nombre>DRAGONSLAYER</nombre>
+		</puntuacion>
+		<puntuacion>
+			<puntos>2650</puntos>
+			<nombre>YHORM</nombre>
+		</puntuacion>
+	</modo>
+	<modo dif="2">
+		<puntuacion>
+			<puntos>6450</puntos>
+			<nombre>MENDAX</nombre>
+		</puntuacion>
+		<puntuacion>
+			<puntos>6400</puntos>
+			<nombre>SOLO</nombre>
+		</puntuacion>
+		<puntuacion>
+			<puntos>5750</puntos>
+			<nombre>DARKDANTE</nombre>
+		</puntuacion>
+		<puntuacion>
+			<puntos>5150</puntos>
+			<nombre>MAFIABOY</nombre>
+		</puntuacion>
+		<puntuacion>
+			<puntos>10</puntos>
+			<nombre>ELMALIGNO</nombre>
+		</puntuacion>
+	</modo>
+  <modo dif="3">
+  </modo>
+</puntuaciones>
